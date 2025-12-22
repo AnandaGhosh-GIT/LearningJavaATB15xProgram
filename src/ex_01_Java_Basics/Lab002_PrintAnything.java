@@ -12,6 +12,7 @@ public class Lab002_PrintAnything {
 //        ; is mandatory after each statement in JAVA
 //          System.out.println("Hello")
 
+
         System.out.println("Ag@1995");
     }
 }
