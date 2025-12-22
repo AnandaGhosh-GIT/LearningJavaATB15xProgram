@@ -8,6 +8,7 @@ public class Lab005_MultiLineComments {
         // This is a comment
         // This is a comment
 
+
   // Or else we can have like this
         /*
            This a multiple-line comment.
