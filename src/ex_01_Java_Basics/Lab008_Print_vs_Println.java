@@ -12,6 +12,7 @@ public class Lab008_Print_vs_Println {
         //         Subsequent output will start on a fresh line.
         System.out.println(" Welcome to");
         System.out.println("JAVA");
-
+        int a = 2 - -7;
+        System.out.println(a);
     }
 }
