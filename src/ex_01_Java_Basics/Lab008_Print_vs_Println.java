@@ -8,6 +8,7 @@ public class Lab008_Print_vs_Println {
         System.out.print("Hello Ananda");
         System.out.print(" Ghosh!");
 
+
         //Println- The cursor moves to the beginning of the next line after printing the text.
         //         Subsequent output will start on a fresh line.
         System.out.println(" Welcome to");
