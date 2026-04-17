@@ -13,7 +13,7 @@ public class Lab008_Print_vs_Println_vs_Printf {
         //         Subsequent output will start on a fresh line.
         System.out.println(" Welcome to");
         System.out.println("JAVA");
-        int a = 2 - -7;
+        int a = 2 - 7;
         System.out.println(a);
 
         //Printf- this method provides a way to output formatted text using format specifiers
