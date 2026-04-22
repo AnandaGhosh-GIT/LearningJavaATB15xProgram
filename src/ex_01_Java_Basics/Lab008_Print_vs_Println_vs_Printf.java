@@ -22,5 +22,12 @@ public class Lab008_Print_vs_Println_vs_Printf {
         int age = 30;
         float height = 5.6f;
         System.out.printf("Name: %s, Age: %d, Height: %f", name, age, height);
+
+        // Format Specifiers:
+        // %d-> byte, short, int, long
+        // %f-> float, double
+        //%s-> string
+        //%b-> boolean
+
     }
 }
